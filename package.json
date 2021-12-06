@@ -1,0 +1,16 @@
+{
+  "name": "linkshortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Taylor Lee",
+  "license": "ISC",
+  "dependencies": {
+    "@replit/database": "^2.0.1",
+    "express": "^4.17.1"
+  }
+}
